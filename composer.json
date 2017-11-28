@@ -1,0 +1,20 @@
+{
+    "name": "kewin.cheng/ali-green-api",
+    "license": "MIT",
+    "homepage": "https://github.com/chenghongqiang/AliGreenAPI",
+    "description": "the ali-green-api of checking content",
+    "authors": [
+        {
+            "name": "kewin.cheng",
+            "email": "kewinchq@yeah.net",
+            "role": "Creator"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-4": {"AliGreenAPI\\aliyuncs\\": ""}
+    }
+}
